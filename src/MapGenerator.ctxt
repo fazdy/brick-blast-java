@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MapGenerator
+comment1.params=row\ col\ level
+comment1.target=MapGenerator(int,\ int,\ int)
+comment2.params=row\ col\ level
+comment2.target=void\ initLevel(int,\ int,\ int)
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4
