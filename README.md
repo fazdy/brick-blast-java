@@ -2,6 +2,14 @@
 
 Game klasik Brick Blast (Breakout) yang dibuat menggunakan bahasa pemrograman Java.
 
+## Anggota Kelompok
+
+| Name | NRP |
+|------|-----|
+| M. Rizal Febrianto | 5025231258 |
+| Kemal Aji Rajasa | 5025231263 |
+| Faizal Aldy Armiriawan | 5025231266 |
+
 ## 📖 Deskripsi
 
 Brick Blast adalah permainan arcade klasik di mana pemain mengendalikan sebuah paddle untuk memantulkan bola dan menghancurkan semua brick yang tersusun di layar. Game ini merupakan implementasi dari konsep game Breakout yang populer sejak era 1970-an. 
